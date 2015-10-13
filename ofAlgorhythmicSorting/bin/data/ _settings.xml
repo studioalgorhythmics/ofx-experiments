@@ -1,0 +1,58 @@
+<controls>
+    <SliderFloat_Speed>
+        <name>Speed</name>
+        <value>25.000000000</value>
+    </SliderFloat_Speed>
+    <SliderFloat_Volume>
+        <name>Volume</name>
+        <value>0.787500024</value>
+    </SliderFloat_Volume>
+    <SliderFloat_Frequency_Range>
+        <name>Frequency Range</name>
+        <value>0.200000003</value>
+    </SliderFloat_Frequency_Range>
+    <SliderFloat_Frequency_Base>
+        <name>Frequency Base</name>
+        <value>100.000000000</value>
+    </SliderFloat_Frequency_Base>
+    <Toggle_Percusion>
+        <name>Percusion</name>
+        <value>1</value>
+    </Toggle_Percusion>
+    <Toggle_Tones>
+        <name>Tones</name>
+        <value>1</value>
+    </Toggle_Tones>
+    <Toggle_Loop>
+        <name>Loop</name>
+        <value>0</value>
+    </Toggle_Loop>
+    <ComboBox_Sorting_Algorithm>
+        <name>Sorting Algorithm</name>
+        <value>0</value>
+    </ComboBox_Sorting_Algorithm>
+    <SliderInt_Array_Size>
+        <name>Array Size</name>
+        <value>44</value>
+    </SliderInt_Array_Size>
+    <ComboBox_Initial_Array_Type>
+        <name>Initial Array Type</name>
+        <value>3</value>
+    </ComboBox_Initial_Array_Type>
+    <Button_Generate_New_Array>
+        <name>Generate New Array</name>
+        <value>0</value>
+    </Button_Generate_New_Array>
+    <Button_Start>
+        <name>stop</name>
+        <value>0</value>
+    </Button_Start>
+    <Button_Toggle_Fullscreen>
+        <name>Toggle Fullscreen</name>
+        <value>0</value>
+    </Button_Toggle_Fullscreen>
+    <Button_Save_History_as_Image>
+        <name>Save History as Image</name>
+        <value>0</value>
+    </Button_Save_History_as_Image>
+</controls>
