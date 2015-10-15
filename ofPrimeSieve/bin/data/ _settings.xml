@@ -1,0 +1,14 @@
+<controls>
+    <SliderFloat_Speed>
+        <name>Speed</name>
+        <value>112.027496338</value>
+    </SliderFloat_Speed>
+    <SliderFloat_Volume>
+        <name>Volume</name>
+        <value>0.762499988</value>
+    </SliderFloat_Volume>
+    <Button_Toggle_Fullscreen>
+        <name>Toggle Fullscreen</name>
+        <value>0</value>
+    </Button_Toggle_Fullscreen>
+</controls>
